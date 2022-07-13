@@ -1,7 +1,11 @@
-- 👋 Hi, I’m @olofindamilola
-- 👀 I’m interested in full stack development
-- 🌱 I’m currently learning html,css,bootstrap,python,sql
-- 💞️ I’m looking to collaborate on any code 
+🔗 
+  HELLO, I'm olofin damilola 
+  I’m interested in full stack development
+  I'm currently undergoing a 12-months software engineering program 
+  With A-L-X software engineering program 
+
+  I’m currently learning html,css,bootstrap,python,sql,c programming   
+ I’m looking to collaborate on any code 
 - 📫 How to reach me email @kdammy2017@gmail.com
 
 <!---
