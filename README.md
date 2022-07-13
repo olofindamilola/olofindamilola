@@ -1,5 +1,6 @@
 🔗 
-  HELLO, I'm olofin damilola 
+  HELLO, I'M OLOFIN DAMILOLA 
+
   I’m interested in full stack development
   I'm currently undergoing a 12-months software engineering program 
   With A-L-X software engineering program 
