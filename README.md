@@ -7,7 +7,7 @@
 
   I’m currently learning html,css,bootstrap,python,sql,c programming   
  I’m looking to collaborate on any code 
-- 📫 How to reach me email @kdammy2017@gmail.com
+- 📫 How to reach me email @olofin.amila@ggmail.com
 
 <!---
 olofindamilola/olofindamilola is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
