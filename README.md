@@ -5,7 +5,7 @@
   I'm currently undergoing a 12-months software engineering program 
   With A-L-X software engineering program 
 
-  I’m currently learning html,css,bootstrap,python,sql,c programming   
+  I’m currently learning html,css,react js,python,sql,c language   
  I’m looking to collaborate on any code 
 - 📫 How to reach me email @olofin.amila@gmail.com
 
